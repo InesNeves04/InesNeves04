@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=InesNeves04)](https://github.com/InesNeves04/github-readme-stats)
+
 ![Visitor Count](https://profile-counter.glitch.me/InesNeves04/count.svg)
 <!---
 InesNeves04/InesNeves04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
