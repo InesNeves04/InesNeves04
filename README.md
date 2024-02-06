@@ -8,6 +8,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InesNeves04)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ![Visitor Count](https://profile-counter.glitch.me/InesNeves04/count.svg)
 <!---
 InesNeves04/InesNeves04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
