@@ -8,7 +8,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InesNeves04)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!--- ![Jokes Card](https://readme-jokes.vercel.app/api) --->
 
 ![Visitor Count](https://profile-counter.glitch.me/InesNeves04/count.svg)
 <!---
