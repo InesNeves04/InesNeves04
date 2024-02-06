@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=InesNeves04)](https://github.com/InesNeves04/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=InesNeves04)
 
 ![Visitor Count](https://profile-counter.glitch.me/InesNeves04/count.svg)
 <!---
