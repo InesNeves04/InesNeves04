@@ -5,9 +5,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InesNeves04)
 
 <!--- ![Jokes Card](https://readme-jokes.vercel.app/api) --->
-<p align="left">
-  <a href="https://github.com/InesNeves04"><img alt="InesNeves04's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=InesNeves04&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InesNeves04)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/InesNeves04/count.svg)
