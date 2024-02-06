@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+InesNeves04!;Welcome+to+my+README+file!!!)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @InesNeves04
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -11,6 +10,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InesNeves04)
 
 <!--- ![Jokes Card](https://readme-jokes.vercel.app/api) --->
+<p align="left">
+  <a href="https://github.com/InesNeves04?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
 
 ![Visitor Count](https://profile-counter.glitch.me/InesNeves04/count.svg)
 <!---
