@@ -1,22 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+README+file)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+README+file!)](https://git.io/typing-svg)
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InesNeves04&show_icons=true&theme=transparent)
 
+<!-- Uncomment this line if you want to show a Jokes Card -->
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=InesNeves04)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InesNeves04&layout=compact&langs_count=6&theme=transparent)
 
-<!--- ![Jokes Card](https://readme-jokes.vercel.app/api) --->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InesNeves04)
-
-
+## 🏆 Profile Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/InesNeves04/count.svg)
-<!---
-InesNeves04/InesNeves04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
+## 🚀 Languages & Tools
 <div>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
