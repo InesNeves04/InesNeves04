@@ -6,7 +6,10 @@
 <!-- Uncomment this line if you want to show a Jokes Card -->
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InesNeves04&layout=compact&langs_count=6&theme=transparent)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InesNeves04&layout=compact&langs_count=6&theme=transparent) -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InesNeves04&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InesNeves04&theme=github)
 
 ## 🚀 Languages & Tools
 <div>
