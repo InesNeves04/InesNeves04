@@ -25,8 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://store-images.s-microsoft.com/image/apps.56249.13995548290558480.6be6c45c-124a-4475-b59a-6e15f3b412e0.36e3cd2c-6460-4dba-bda6-5f9999f9fe83" title="SQLiteStudio"  alt="SQLiteStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia"  alt="Julia" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP"  alt="GCP" width="40" height="40"/>&nbsp;
  
 
