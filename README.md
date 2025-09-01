@@ -10,7 +10,6 @@
 
 <img src="https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=InesNeves04&custom_title=Most%20Used%20Languages%20including%20forks&layout=compact&theme=material-palenight&include_forks=true&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats" />
 
-
 ## 🚀 Languages & Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
