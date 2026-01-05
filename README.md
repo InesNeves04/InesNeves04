@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+README+file!)](https://git.io/typing-svg)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InesNeves04&show_icons=true&theme=default)
-
-
 <!-- Uncomment this line if you want to show a Jokes Card -->
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
